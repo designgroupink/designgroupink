@@ -1,0 +1,366 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201105 will be lost/reset.
+# Last config file used to build this data file was /home/candi/tmp/awstats/awstats.blog.designgroupink.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1980                
+POS_TIME 2666                
+POS_VISITOR 7672                
+POS_DAY 8890                
+POS_DOMAIN 3472                
+POS_LOGIN 3872                
+POS_ROBOT 4027                
+POS_WORMS 4247                
+POS_EMAILSENDER 4378                
+POS_EMAILRECEIVER 4521                
+POS_SESSION 9162                
+POS_SIDER 9369                
+POS_FILETYPES 4656                
+POS_OS 4868                
+POS_BROWSER 5016                
+POS_SCREENSIZE 5241                
+POS_UNKNOWNREFERER 5315                
+POS_UNKNOWNREFERERBROWSER 5632                
+POS_ORIGIN 5944                
+POS_SEREFERRALS 6085                
+POS_PAGEREFS 6251                
+POS_SEARCHWORDS 6502                
+POS_KEYWORDS 6654                
+POS_MISC 2327                
+POS_ERRORS 6713                
+POS_CLUSTER 3728                
+POS_SIDER_404 6838                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110523074410 1991 475142 31873678089
+FirstTime 20110516162902
+LastTime 20110523064025
+LastUpdate 20110523102800 1991 0 1991 0 0
+TotalVisits 69                  
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1250 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 112208 9 9 186854
+1 13 13 246479 7 7 7789
+2 9 9 245229 6 108 116034690
+3 3 3 0 5 6 891311
+4 0 0 0 1 1 887
+5 3 3 89869 5 5 41652
+6 3 83 4868553 4 6 68625
+7 16 16 326311 18 23 3986731
+8 11 11 225745 14 15 54701
+9 4 4 4442 7 8 31202
+10 1 1 120563 5 5 40762
+11 3 3 112188 6 6 26335
+12 3 10 105035 4 8 72669
+13 35 35 629700 9 117 96563260
+14 274 1631 5171135 69 174 2097399
+15 233 408 5212973 18 169 161709
+16 514 1259 21648324 30 367 358544
+17 693 2448 19579307 30 468 1067522
+18 306 878 5204371 12 139 130376
+19 297 775 6669804 10 132 119357
+20 219 844 4256853 11 139 118664
+21 219 740 3653557 7 128 230551
+22 426 2592 24070690 33 381 283210
+23 211 1534 23345419 28 154 97883
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 3434 13075 113737046
+ua 15 15 393308
+ru 13 13 561480
+lu 12 12 246479
+cz 10 10 688299
+ro 7 7 102874
+ca 2 7 368894
+it 1 81 4868553
+es 1 1 112188
+nl 1 1 89869
+de 1 1 92582
+gb 1 79 4637183
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 288 220721093 20110523074410 0
+bot[\s_+:,\.\;\/\\-] 3 123837 20110522091211 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 643 712007 0 0
+php 3005 28570054 0 0
+png 1184 379113 0 0
+html 210 16341637 0 0
+js 536 1311531 0 0
+jpg 5878 74824902 0 0
+gif 1563 140790 0 0
+swf 283 3618721 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+winlong 1
+winxp 73
+win2000 8
+winnt 7
+linuxubuntu 355
+linux 589
+winme 3
+macosx 160
+Unknown 2758
+win2008 9348
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie8.0 8
+msie6.0 48
+chrome11.0.696.68 9988
+mozilla 3
+chrome11.0.696.57 14
+msie7.0 25
+msie4.01 4
+firefox3.6.17 176
+opera9.00 3
+Unknown 2758
+opera9.80 5
+chrome11.0.696.65 270
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+The_Incutio_XML-RPC_PHP_Library 20110517172640
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110520180047
+WordPress/3.1.2;_http://blog.designgroupink.com 20110523064025
+Shockwave_Flash 20110522142215
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+The_Incutio_XML-RPC_PHP_Library 20110517172640
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110520180047
+WordPress/3.1.2;_http://blog.designgroupink.com 20110523064025
+Shockwave_Flash 20110522142215
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 469 3828
+From1 0 0
+From2 5 5
+From3 2 2
+From4 3022 9467
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 3 3
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://app.quickblogcast.com/DashBoard.aspx 1 1
+http://designgroupink.com:2095/3rdparty/roundcube/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 117 0
+500 691 525104
+301 8 3608
+404 57 191178
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 12
+/2010/01/31/we-made-it.aspx 1 -
+/2010/02/01/day-1--red-square.aspx 2 -
+/robots.txt 5 -
+/page/2/ 3 http://blog.designgroupink.com/
+/emoticons/smile.png 21 http://blog.designgroupink.com/
+/2010/02/05/friendship.aspx 9 http://blog.designgroupink.com/2010/02/05/friendship.aspx
+/2010/01/29/the-time-has-finally-come/trackback.aspx 1 -
+/2010/02/10.aspx 1 -
+/feed/ 2 -
+/wp-index.php 6 http://blog.designgroupink.com/wp-index.php
+/captchaimage.aspx 3 -
+/02/05/friendship.aspx 3 http://blog.designgroupink.com/02/05/friendship.aspx
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+71.198.238.195 3246 10187 97265559 20110522204626
+184.172.190.160 150 2502 0 20110523064025
+216.110.94.228 32 355 15641627 20110521232226
+91.214.45.239 12 12 246479 20110518012452
+89.252.58.228 8 8 135983 20110521095712
+95.64.12.48 7 7 102874 20110522070819
+188.143.232.132 7 7 102874 20110522075327
+94.179.146.38 4 4 128706 20110520024711
+93.80.27.48 3 3 124878 20110519234546
+193.105.210.162 3 3 128619 20110521180848
+31.184.238.12 3 3 116523 20110518023613
+91.212.226.243 3 3 94204 20110522085246
+64.202.160.161 2 24 506480 20110516222915
+134.117.196.116 2 7 368894 20110517200904
+91.218.36.211 2 2 244801 20110521171240
+95.168.210.229 2 2 232771 20110521132212
+87.228.104.119 1 1 120563 20110521104224
+188.143.233.193 1 1 120563 20110520133019
+93.62.81.43 1 81 4868553 20110523064025
+66.220.158.247 1 1 120543 20110520180047
+209.249.53.119 1 1 120543 20110518224628
+69.170.134.46 1 1 190 20110517172640
+89.149.241.178 1 1 92582 20110522171446
+95.26.218.160 1 1 92602 20110522192606
+86.163.16.121 1 79 4637183 20110521163140
+213.0.89.54 1 1 112188 20110518110115
+94.228.220.7 1 1 89869 20110522051444
+174.121.231.233 1 4 82104 20110516162902
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20110516 151 422 5325406 8
+20110517 295 554 9469844 7
+20110518 809 2078 20876847 11
+20110519 5 5 245441 3
+20110520 64 252 6178617 6
+20110521 1907 8294 74022063 12
+20110522 263 1613 4911984 19
+20110523 4 84 4868553 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 2
+30s-2mn 2
+2mn-5mn 2
+15mn-30mn 1
+0s-30s 44
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 39
+/wp-admin/admin-ajax.php 829 225844 0 2
+/wp-admin/media-upload.php 548 3638107 0 0
+/wp-admin/async-upload.php 507 1733398 0 0
+/wp-admin/index-extra.php 321 579543 0 1
+/wp-includes/js/swfupload/swfupload.swf 283 3618721 0 0
+/wp-admin/admin.php 169 1164980 0 3
+/wp-cron.php 150 0 29 29
+/ 148 14589279 34 21
+/wp-admin/post.php 138 9617873 0 0
+/wp-admin/edit.php 89 6019935 0 0
+/wp-admin/ 60 1728264 3 0
+/wp-login.php 56 128459 2 10
+/wp-admin/themes.php 52 1057327 0 1
+/wp-admin/load-scripts.php 39 865228 0 0
+/wp-admin/options-general.php 16 759536 0 0
+/wp-admin/load-styles.php 13 210541 0 0
+/wp-admin/users.php 10 243027 0 0
+/wp-admin/profile.php 9 189563 0 0
+/wp-admin/widgets.php 8 718138 0 0
+/wp-admin/theme-install.php 7 160830 0 0
+/wp-admin/index.php 5 141989 0 0
+/wp-admin/tools.php 5 80418 0 1
+/wp-admin/theme-editor.php 4 168297 0 0
+/wp-admin/user-new.php 4 74057 0 0
+/wp-admin/edit-comments.php 4 107426 0 0
+/wp-admin/post-new.php 3 166369 0 0
+/wp-includes/js/tinymce/wp-mce-help.php 1 11020 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html 2 24094 0 0
+/wp-admin/edit-tags.php 2 55928 0 0
+/xmlrpc.php 1 190 1 1
+/wp-admin/plugin-install.php 1 6834 0 0
+/wp-admin/options-permalink.php 2 36578 0 0
+/wp-admin/options-writing.php 1 21218 0 0
+/wp-admin/options-media.php 2 37174 0 0
+/wp-admin/nav-menus.php 2 151732 0 0
+/wp-admin/update.php 2 29911 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 84510 0 0
+/wp-admin/import.php 3 52127 0 0
+/wp-admin/upload.php 1 31947 0 0
+END_SIDER

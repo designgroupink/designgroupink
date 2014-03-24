@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>HostGator Server Announcements (Gator1444)</title>
+		<link>http://msg.hostgator.com/1444/</link>
+		<description>Announcements about server downtime, upgrades, etc.</description>
+		<item>
+			<guid isPermalink="false">an209</guid>
+			<title>Ticket system maintenance</title>
+			<link>http://msg.hostgator.com/anns/1444/#an209</link>
+			<pubDate>Thu, 03 Feb 2011 14:42:04 CST</pubDate>
+			<description>
+				We will be doing maintenance on our ticket system on Sunday, Feb 6th between 1AM and 4AM central.&lt;br /&gt;&lt;br /&gt;For more information, please refer to our forum post : http://forums.hostgator.com/02-06-2011-support-maintenance-ticket-t110393.html
+			</description>
+		</item>
+	</channel>
+</rss>
